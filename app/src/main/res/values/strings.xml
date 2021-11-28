@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fueler</string>
+    <string name="driver">I am a Driver</string>
+    <string name="admin">I am an Admin</string>
+</resources>
